@@ -1,4 +1,4 @@
-# CasinoNl_webscraper
+# Bet_webscraper
 Web scraper, that gives information on the two safest bets. It considers Live Football Matches and begins the process of betting. If there aren't at least 2 live football matches, the script utilises other 2 live matches from the other options (basketball, volleyball etc). 
 **(Please don't use it to actually bet on the website, it's just a project and it is not to be taken seriously). I DISCOURAGE GAMBLING OF ALL SORTS!**
 
